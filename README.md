@@ -14,3 +14,8 @@ Esta é a página inicial. Tenha em mente que não há validação de usuário. 
 
 
 ![image](https://user-images.githubusercontent.com/91724132/149516086-f1ed6e8f-bcbc-41b1-9038-09d2edaa59e4.png)
+
+Este é o modal para criar uma entrada.
+![image](https://user-images.githubusercontent.com/91724132/149516115-25544f5b-9263-451d-bc62-13abecfa9a3d.png)
+
+Da mesma forma, foram criados modais para as funcionalidades de edição e exclusão, que serão exibidos posteriormente.
