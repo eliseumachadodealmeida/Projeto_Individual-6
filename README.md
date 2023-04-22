@@ -11,3 +11,6 @@ Próxima tarefa: finalizar o back-end e prosseguir para testar e corrigir os err
 Iniciamos o commit inicial do git com parte do nosso trabalho de front-end, antes de entrarmos no back-end para lidar com o banco de dados.
 
 Esta é a página inicial. Tenha em mente que não há validação de usuário. A tabela será preenchida assim que o banco de dados for conectado. Também temos espaços reservados para as operações CRUD necessárias (editar, excluir) para cada entrada na tabela.
+
+
+![image](https://user-images.githubusercontent.com/91724132/149516086-f1ed6e8f-bcbc-41b1-9038-09d2edaa59e4.png)
